@@ -1,0 +1,33 @@
+{
+  "internalNotificationRetrieveActionResponse" : "internalNotificationRetrieveActionResponse",
+  "internalNotificationRetrieveActionTaskReference" : "INRATR731610",
+  "internalNotificationRetrieveActionTaskRecord" : {},
+  "internalNotificationInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "756152",
+    "issuedDeviceReference" : "742412",
+    "customerReference" : "704343",
+    "statusUpdateDetails" : "statusUpdateDetails",
+    "statusUpdateResult" : "statusUpdateResult",
+    "issuedDeviceType" : "issuedDeviceType"
+  },
+  "internalNotificationInstanceReport" : {
+    "internalNotificationInstanceReportParameters" : "internalNotificationInstanceReportParameters",
+    "internalNotificationInstanceReportRecord" : {},
+    "internalNotificationInstanceReport" : {},
+    "internalNotificationInstanceReportType" : "internalNotificationInstanceReportType"
+  },
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "767742"
+  },
+  "internalNotificationInstanceAnalysis" : {
+    "internalNotificationInstanceAnalysisParameters" : "internalNotificationInstanceAnalysisParameters",
+    "internalNotificationInstanceAnalysisRecord" : {},
+    "internalNotificationInstanceAnalysisReport" : {},
+    "internalNotificationInstanceAnalysisReportType" : "internalNotificationInstanceAnalysisReportType"
+  }
+}

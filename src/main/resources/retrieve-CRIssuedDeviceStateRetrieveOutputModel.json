@@ -1,0 +1,22 @@
+{
+  "issuedDeviceStateRetrieveActionResponse" : "issuedDeviceStateRetrieveActionResponse",
+  "issuedDeviceStateInstanceAnalysis" : {
+    "issuedDeviceStateInstanceAnalysisData" : "issuedDeviceStateInstanceAnalysisData",
+    "issuedDeviceStateInstanceAnalysisReport" : {},
+    "issuedDeviceStateInstanceAnalysisReportType" : "issuedDeviceStateInstanceAnalysisReportType"
+  },
+  "issuedDeviceStateRetrieveActionTaskRecord" : {},
+  "issuedDeviceStateInstanceReportRecord" : {
+    "issuedDeviceStateInstanceReportType" : "issuedDeviceStateInstanceReportType",
+    "issuedDeviceStateInstanceReport" : {},
+    "issuedDeviceStateInstanceReportData" : "issuedDeviceStateInstanceReportData"
+  },
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "725105"
+  },
+  "issuedDeviceStateRetrieveActionTaskReference" : "IDSRATR760458"
+}

@@ -1,0 +1,13 @@
+{
+  "issuedDeviceStateInstanceStatus" : "issuedDeviceStateInstanceStatus",
+  "issuedDeviceStateInstanceReference" : "IDSIR764892",
+  "issuedDeviceStateInitiateActionRecord" : {},
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "791215"
+  },
+  "issuedDeviceStateInitiateActionReference" : "IDSIAR743648"
+}

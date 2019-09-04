@@ -1,0 +1,10 @@
+{
+  "internalNotificationCaptureRecordReference" : "INCRR732864",
+  "internalNotificationCaptureActionTaskRecord" : {},
+  "internalNotificationCaptureActionTaskReference" : "INCATR708183",
+  "internalNotificationInstanceRecord" : {
+    "date" : "09-22-2018",
+    "statusUpdateResult" : "statusUpdateResult"
+  },
+  "captureResponseRecord" : {}
+}

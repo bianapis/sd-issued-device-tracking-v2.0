@@ -1,0 +1,12 @@
+{
+  "updateResponseRecord" : {},
+  "issuedDeviceStateUpdateActionTaskReference" : "IDSUATR722161",
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "743036"
+  },
+  "issuedDeviceStateUpdateActionTaskRecord" : {}
+}

@@ -1,0 +1,23 @@
+{
+  "updateResponseRecord" : {},
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "738076"
+  },
+  "bQExternalReportInstanceRecord" : {
+    "informationFeedServiceContentRecord" : {
+      "date" : "09-22-2018",
+      "productInstanceReference" : "756097",
+      "issuedDeviceReference" : "751870",
+      "customerReference" : "788393",
+      "statusUpdateDetails" : "statusUpdateDetails",
+      "statusUpdateResult" : "statusUpdateResult",
+      "issuedDeviceType" : "issuedDeviceType"
+    }
+  },
+  "externalReportUpdateActionTaskReference" : "ERUATR746562",
+  "externalReportUpdateActionTaskRecord" : {}
+}

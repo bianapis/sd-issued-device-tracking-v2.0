@@ -1,0 +1,10 @@
+{
+  "externalReportCaptureActionTaskReference" : "ERCATR767913",
+  "externalReportCaptureRecordReference" : "ERCRR702256",
+  "externalReportCaptureActionTaskRecord" : {},
+  "bQExternalReportInstanceRecord" : {
+    "date" : "09-22-2018",
+    "statusUpdateResult" : "statusUpdateResult"
+  },
+  "captureResponseRecord" : {}
+}

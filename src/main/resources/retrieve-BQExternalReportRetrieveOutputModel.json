@@ -1,0 +1,35 @@
+{
+  "externalReportRetrieveActionTaskReference" : "ERRATR729966",
+  "externalReportInstanceAnalysis" : {
+    "externalReportInstanceAnalysisReportType" : "externalReportInstanceAnalysisReportType",
+    "externalReportInstanceAnalysisRecord" : {},
+    "externalReportInstanceAnalysisReport" : {},
+    "externalReportInstanceAnalysisParameters" : "externalReportInstanceAnalysisParameters"
+  },
+  "externalReportRetrieveActionResponse" : "externalReportRetrieveActionResponse",
+  "externalReportInstanceReport" : {
+    "externalReportInstanceReportType" : "externalReportInstanceReportType",
+    "externalReportInstanceReport" : {},
+    "externalReportInstanceReportParameters" : "externalReportInstanceReportParameters",
+    "externalReportInstanceReportRecord" : {}
+  },
+  "externalReportRetrieveActionTaskRecord" : {},
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "711335"
+  },
+  "bQExternalReportInstanceRecord" : {
+    "informationFeedServiceContentRecord" : {
+      "date" : "09-22-2018",
+      "productInstanceReference" : "771163",
+      "issuedDeviceReference" : "756492",
+      "customerReference" : "725011",
+      "statusUpdateDetails" : "statusUpdateDetails",
+      "statusUpdateResult" : "statusUpdateResult",
+      "issuedDeviceType" : "issuedDeviceType"
+    }
+  }
+}

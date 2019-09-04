@@ -1,0 +1,21 @@
+{
+  "updateResponseRecord" : {},
+  "internalNotificationInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "765169",
+    "issuedDeviceReference" : "702668",
+    "customerReference" : "741456",
+    "statusUpdateDetails" : "statusUpdateDetails",
+    "statusUpdateResult" : "statusUpdateResult",
+    "issuedDeviceType" : "issuedDeviceType"
+  },
+  "internalNotificationUpdateActionTaskReference" : "INUATR796569",
+  "cRIssuedDeviceTrackingInstanceRecord" : {
+    "issuedDeviceAllocationInstanceReference" : {
+      "issuedDeviceAllocationStatus" : "issuedDeviceAllocationStatus"
+    },
+    "issuedDeviceAllocationInstanceRecord" : {},
+    "informationFeedProviderReference" : "781434"
+  },
+  "internalNotificationUpdateActionTaskRecord" : {}
+}
